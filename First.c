@@ -4,4 +4,4 @@ int main(){
   printf("First!");
   return 0;
 }
-bajs
+/* Katter är fina djur */
