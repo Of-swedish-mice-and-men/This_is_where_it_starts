@@ -4,4 +4,4 @@ int main(){
   printf("First!");
   return 0;
 }
-bajs
+suck dick, its good for you 
